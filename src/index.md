@@ -17,4 +17,4 @@ multidimensionales desde un escáner médico.
 crlf codificacion de final de linea
 space nuemro de espacios antes de cada linea
 git para resolver problemas de tranabar daniel linux mac o windows apra final de linea
-desdepues de instalar git ya podemos  utilizar el control de versiones incluido dentro de vs code
+desdepues de instalar git ya podemos  utilizar el control de versiones incluido dentro de vs codevfvfv
